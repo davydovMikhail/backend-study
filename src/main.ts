@@ -9,3 +9,4 @@ async function start() {
     await app.listen(PORT, () => console.log(`Server started on port = ${PORT}`));
 }
 start()
+// 24 minut
